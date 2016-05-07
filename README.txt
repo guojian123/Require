@@ -1,0 +1,1 @@
+This is a require-js demo.It is just a tool to load your js or css files,but it can make your js or css files modularization.In brief,which js or css your html need,you can load it,not load all.However,if this file relys on other files,you also need to load them.
